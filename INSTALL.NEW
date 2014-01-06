@@ -1,0 +1,7 @@
+# EXAMPLE INSTALL FOR UBUNTU SERVER 12.04
+cd src/miniupnpc
+make 
+make install
+cd ..
+make -f makefile.unix
+
